@@ -24,7 +24,6 @@ This project implements an object detection model using YOLO to identify pneumon
 - (Add accuracy / mAP if available)
 
 ## Output Example
-![Result](result.png)
-
+(https://drive.google.com/file/d/1lAk78UEkLisX2rT3hkMbJf59HwT16pOQ/view?usp=sharing)
 ## Author
 Yasmin Haniyya
